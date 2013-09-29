@@ -1,0 +1,39 @@
+// Brainstorming
+name
+Address
+City
+State
+Zip
+Phone
+Website
+Hours
+Notes
+Payment options
+Timestamp
+
+Price
+Quantity
+Lagniappe
+    What's included with the crawfish?
+    What else is sold?
+    Dine in?
+    Fresh/Hot?
+    Packaging
+
+(map)
+(distance)
+(reviews)
+
+
+
+// Simple
+simple_id   int            unsigned    primary    ai
+name        varchar(50)                index
+price       decimal(4,2)   unsigned    index
+website     varchar(255)
+phone       varchar(20)
+address     varchar(60)
+city        varchar(30)                index
+state       varchar(3)                 index
+zip         int(5)         unsigned    index
+timestamp   timestamp                  index
