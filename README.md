@@ -11,8 +11,7 @@ at the request of people who actually ended up using the app (We weren't countin
 This version of the app is written using Codeigniter and Twitter Bootstrap v2, and as such, should be very simple to understand. 
 We originally wrote the app in Backbone.js (since no one in the group had worked with it before). That 
 one was somewhat of a dud and we wanted to have something presentable, so in the last several hours of the 
-competition we all took a shot at writing it as quickly as possible in our most familiar language. This was 
-my version, and the version that still exists at [crawfinder.com](http://crawfinder.com). All in all, it has 
+competition we all took a shot at writing it as quickly as possible in our most familiar language. All in all, it has 
 about 8 hours (of which most were at the end of a two day stetch with no sleep) of work put into it, so it's 
 not pretty by any stretch. Nor is Codeigniter very elegant in the first place.
 
